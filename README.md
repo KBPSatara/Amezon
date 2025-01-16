@@ -1,2 +1,2 @@
 # Amezon
-Clone of Amezon
+Clone of Amazon
