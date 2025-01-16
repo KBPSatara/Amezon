@@ -1,0 +1,2 @@
+# Amezon
+Clone of Amezon
